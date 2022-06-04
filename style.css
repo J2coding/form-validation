@@ -74,7 +74,10 @@ position: relative;
     visibility: visible;
     color: #e74c3c;
 }
-
+.form-control .error small{
+    visibility: visible;
+    color: #e74c3c;
+}
 
 .form-control small{
     visibility: hidden;
